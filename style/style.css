@@ -1,7 +1,6 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
+body{
+    background-color: cadetblue;
 }
 
-body{
-    background-color: beige;
-}
+table, td, th{
+    border: 1px solid black;
